@@ -98,3 +98,60 @@
     ]
 
   
+
+
+
+
+    [
+      {
+        "id": "e1a2b3c4",
+        "img": "https://example.com/college1.jpg",
+        "college_name": "ABC University"
+      },
+      {
+        "id": "f5g6h7i8",
+        "img": "https://example.com/college2.jpg",
+        "college_name": "XYZ College"
+      },
+      {
+        "id": "j9k0l1m2",
+        "img": "https://example.com/college3.jpg",
+        "college_name": "PQR Institute"
+      },
+      {
+        "id": "n3o4p5q6",
+        "img": "https://example.com/college4.jpg",
+        "college_name": "LMN University"
+      },
+      {
+        "id": "r7s8t9u0",
+        "img": "https://example.com/college5.jpg",
+        "college_name": "EFG College"
+      },
+      {
+        "id": "v1w2x3y4",
+        "img": "https://example.com/college6.jpg",
+        "college_name": "STU University"
+      },
+      {
+        "id": "z5a6b7c8",
+        "img": "https://example.com/college7.jpg",
+        "college_name": "HIJ College"
+      },
+      {
+        "id": "d9e0f1g2",
+        "img": "https://example.com/college8.jpg",
+        "college_name": "KLM University"
+      },
+      {
+        "id": "h3i4j5k6",
+        "img": "https://example.com/college9.jpg",
+        "college_name": "UVW College"
+      },
+      {
+        "id": "l7m8n9o0",
+        "img": "https://example.com/college10.jpg",
+        "college_name": "RST University"
+      }
+    ]
+    
